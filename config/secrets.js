@@ -18,7 +18,7 @@
 
 module.exports = {
 
-  db: process.env.MONGODB|| 'mongodb://localhost:27017/test',
+  db: process.env.MONGODB|| 'mongodb://scutler19:scoob718@ds045679.mongolab.com:45679/piedpiper',
 
   sessionSecret: process.env.SESSION_SECRET || 'Your Session Secret goes here',
 

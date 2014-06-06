@@ -11,4 +11,6 @@
 
 //= require lib/jquery-2.1.0.min
 //= require lib/bootstrap.min
+//= require lib/zepto
+//= require lib/app.min
 //= require main

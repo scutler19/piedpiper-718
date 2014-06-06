@@ -17,8 +17,6 @@ passport.deserializeUser(function(id, done) {
   });
 });
 
-  }
-}));
 
 // Sign in using Email and Password.
 
